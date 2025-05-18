@@ -25,7 +25,7 @@ const int NUM_STARS = 100000;
 const float GALAXY_RADIUS = 15.0f;
 const float MAX_VELOCITY = 0.5f; // as fraction of c (speed of light)
 const float SPEED_OF_LIGHT = 1.0f; // normalized
-const float FLAT_ROTATION_VELOCITY = 0.3f; // as fraction of c
+const float FLAT_ROTATION_VELOCITY = 0.5f; // as fraction of c
 const float OBSERVER_POSITION_Z = 20.0f;
 
 // Display settings
